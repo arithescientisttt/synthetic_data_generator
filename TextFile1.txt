@@ -37,7 +37,7 @@ Features
 *   **Cross-Platform Support**: Deployable on Mac, Windows, and Linux, ensuring accessibility to a wide range of users.
 *   **Scalable Architecture**: Supports parallel processing to handle large datasets efficiently.
 *   **Custom Texturing**: Allows user-uploaded images to be applied to segmented parts of objects.
-*   **Realism and Flexibility**: Simulates diverse scenarios using Unity s physics-based rendering.
+*   **Realism and Flexibility**: Simulates diverse scenarios using Unity’s physics-based rendering.
 *   **Cloud Deployment**: Future support for AWS EC2 for large-scale data generation.
 
 Installation
@@ -66,7 +66,7 @@ Usage
 -----
 
 1.  **Run the App**:
-    *   On first-time setup, the app will create a default folder on the user's desktop called **SDG Capture Data** where all generated datasets are stored.
+    *   On first-time setup, the app will create a default folder on the user's desktop called **PerceptionCaptureData** where all generated datasets are stored.
 2.  **Configure Parameters**:
     *   You can adjust lighting, object movement, camera angles, and texture mapping via the app's UI.
     *   Optionally, upload custom textures to apply to specific sections of objects.
